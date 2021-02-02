@@ -1,2 +1,3 @@
-# blosum
-A simple Python program to derive Block Substitution matrix (BLOSUM) for protein sequences. Group project with Pendy Tok and Phuah Way Lynn, in Bioinformatics Programming subject.
+# BLOSUM
+
+Run `MakeBLOSUM.py` with `sequences1_20.csv` as input file.
